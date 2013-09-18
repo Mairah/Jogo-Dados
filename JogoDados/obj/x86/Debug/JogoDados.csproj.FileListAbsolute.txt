@@ -1,0 +1,18 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoDados\JogoDados\bin\Debug\JogoDados.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoDados\JogoDados\bin\Debug\JogoDados.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoDados\JogoDados\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoDados\JogoDados\obj\x86\Debug\JogoDados.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoDados\JogoDados\obj\x86\Debug\JogoDados.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoDados\JogoDados\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoDados\JogoDados\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoDados\JogoDados\obj\x86\Debug\JogoDados.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoDados\JogoDados\obj\x86\Debug\JogoDados.pdb
+E:\JogoDados\JogoDados\obj\x86\Debug\JogoDados.exe
+E:\JogoDados\JogoDados\obj\x86\Debug\JogoDados.pdb
+E:\JogoDados\JogoDados\bin\Debug\JogoDados.exe
+E:\JogoDados\JogoDados\bin\Debug\JogoDados.pdb
+E:\JogoDados\JogoDados\obj\x86\Debug\JogoDados.Form1.resources
+E:\JogoDados\JogoDados\obj\x86\Debug\JogoDados.Properties.Resources.resources
+E:\JogoDados\JogoDados\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\JogoDados\JogoDados\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\JogoDados\JogoDados\obj\x86\Debug\GenerateResource.write.1.tlog
